@@ -1,0 +1,4 @@
+# Dependency directories
+node_modules/
+# MongoDB URI
+config/keys.js
